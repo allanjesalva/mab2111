@@ -1,0 +1,2 @@
+This is just a log file
+Git, please ignore me
